@@ -1,0 +1,2 @@
+cam_ID,rec_ID,timestamp,label,confidence,track_ID,track_status,x_min,y_min,x_max,y_max
+raspberrypi,32,2024-12-23T12:18:53.703093,insect,0.54,1,NEW,0.2791,0.3304,0.2987,0.3581
