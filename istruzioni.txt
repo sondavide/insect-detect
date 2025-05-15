@@ -1,0 +1,3 @@
+insect-detect comandi:
+
+ssh -Y  pi@raspberrypi  per entrare nella raspberri e avviare xlaunch
